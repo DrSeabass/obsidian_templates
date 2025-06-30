@@ -73,21 +73,21 @@ function getDailyNotePath(date) {
   const year = date.format("YYYY");
   const monthName = date.format("MM-MMMM");
   const formattedDate = date.format("YYYY-MM-DD");
-  return `${year}/${monthName}/${formattedDate}`;
+  return `journal/${year}/${monthName}/${formattedDate}`;
 }
 
 function getWeeklyNotePath(mondayDate) {
   const year = mondayDate.format("YYYY");
   const monthName = mondayDate.format("MM-MMMM");
   const formattedDate = mondayDate.format("YYYY-MM-DD");
-  return `${year}/${monthName}/Week of ${formattedDate}`;
+  return `journal/${year}/${monthName}/Week of ${formattedDate}`;
 }
 
 function getMonthlyNotePath(date) {
   const year = date.format("YYYY");
   const monthName = date.format("MM-MMMM");
   const month = date.format("YYYY-MM");
-  return `${year}/${monthName}/${month}`;
+  return `journal/${year}/${monthName}/${month}`;
 }
 
 function createDayHeading(date, dayName) {
