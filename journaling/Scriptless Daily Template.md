@@ -11,12 +11,10 @@
 ### Afraid Of?
 ### Hoping For?
 
-# ToDo
-## Roll Over Tasks
-* [ ] Copy Tasks from Yesterday
-* [ ] Link to Monthly Note
-* [ ] Link to Weekly Note
-## Added
-* [ ] 
 # Notes
-* 
+
+## TODOs
+### Rolled Over
+* [ ] Bring in Yesterday's Tasks
+### New
+* [ ] Do Daily Reflections
