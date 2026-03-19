@@ -18,3 +18,8 @@
 * [ ] Bring in Yesterday's Tasks
 ### New
 * [ ] Do Daily Reflections
+* [ ] Check on PbP situation
+* [ ] Check Reddit to see if game ads came through
+* [ ] Check Mail
+
+## Future
