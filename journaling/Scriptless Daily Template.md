@@ -19,7 +19,7 @@
 ### New
 * [ ] Do Daily Reflections
 * [ ] Check on PbP situation
-* [ ] Check Reddit to see if game ads came through
+* [ ] Structural Edits on Little Black Notebook (2 Chapters)
 * [ ] Check Mail
 
 ## Future
