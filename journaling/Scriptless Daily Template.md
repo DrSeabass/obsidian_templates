@@ -19,7 +19,9 @@
 ### New
 * [ ] Do Daily Reflections
 * [ ] Check on PbP situation
-* [ ] Structural Edits on Little Black Notebook (2 Chapters)
+* [ ] Read aloud two chapters of Little Black Notebook and fix Prose
+	* [ ] X
+	* [ ] X+1
 * [ ] Check Mail
 
 ## Future
