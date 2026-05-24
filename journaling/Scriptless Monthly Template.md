@@ -15,14 +15,6 @@
 * [ ] Roll over last month's floating ToDos
 * [ ] 
 
-# Next Month
-
-## With Dates
-* [ ] {YYYY-MM-DD}: 
-
-## Floating
-* [ ] 
-
 # Media Calendar
 * Year-level slate and rules: [year-level calendar](../media_calendar.md)
 * Post types
@@ -43,11 +35,6 @@
 | Sat | (rest) |  |
 | Sun | essay day+4 second-look (*TODO*) | different angle |
 
-### Idea queue
-* 
-
-### Community targets
-* 
 
 ## Fourth Week (essay slot Wed)
 | Day | Post-type | Content stub |
@@ -60,8 +47,16 @@
 | Sat | (rest) |  |
 | Sun | essay day+4 second-look (*TODO*) | different angle |
 
-### Idea queue
+## Idea queue
 * 
 
 ### Community targets
 * 
+
+# Next Month
+
+## With Dates
+* [ ] {YYYY-MM-DD}: 
+
+## Floating
+* [ ] 
