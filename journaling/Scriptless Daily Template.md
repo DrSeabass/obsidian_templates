@@ -23,6 +23,6 @@
 	* [ ] X
 	* [ ] X+1
 * [ ] Check Mail
-* [ ] Bluesky (see [media calendar](YYYY-MM.md))
+* [ ] Bluesky (see [media calendar](2026-06.md))
 
 ## Future
