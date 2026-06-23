@@ -19,9 +19,6 @@
 ### New
 * [ ] Do Daily Reflections
 * [ ] Check on PbP situation
-* [ ] Read aloud two chapters of Little Black Notebook and fix Prose
-	* [ ] X
-	* [ ] X+1
 * [ ] Check Mail
 * [ ] Bluesky (see [media calendar](2026-06.md))
 
