@@ -20,6 +20,6 @@
 * [ ] Do Daily Reflections
 * [ ] Check on PbP situation
 * [ ] Check Mail
-* [ ] Bluesky (see [media calendar](2026-06.md))
+* [ ] Bluesky (see [media calendar](2026-07.md))
 
 ## Future
