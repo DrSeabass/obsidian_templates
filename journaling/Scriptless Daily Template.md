@@ -21,5 +21,6 @@
 * [ ] Check on PbP situation
 * [ ] Check Mail
 * [ ] Bluesky (see [media calendar](2026-07.md))
+* [ ] Stretch to relieve SI Joint
 
 ## Future
